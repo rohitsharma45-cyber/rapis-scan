@@ -1,1 +1,1 @@
-# rapis-scan
+# rapid-scan
